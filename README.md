@@ -37,6 +37,10 @@ python Gaussian_Mixture_Model_for_Buoy_Detection.py
 
 ## Results
 
+### Output Video
+[![Output Video](https://img.shields.io/badge/Output%20Video-Click%20Here-blue)](https://drive.google.com/drive/folders/1A-jOclXAyxUIZvThQ-erImdqoCyHMtA6)
+
+
 ### Average Histograms Plots for each buoy
 ![yellow](output/yellow_hist.jpg)
 
@@ -48,5 +52,3 @@ python Gaussian_Mixture_Model_for_Buoy_Detection.py
 ### Buoy Detection
 ![buoy](output/buoy_detection.jpg)
 
-### Output Video
-[![Output Video](https://img.shields.io/badge/Output%20Video-Click%20Here-blue)](https://drive.google.com/drive/folders/1A-jOclXAyxUIZvThQ-erImdqoCyHMtA6)
